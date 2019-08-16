@@ -1,0 +1,46 @@
+name: py37-cv2
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - blas=1.0=mkl
+  - ca-certificates=2019.5.15=0
+  - certifi=2019.6.16=py37_0
+  - icc_rt=2019.0.0=h0cc432a_1
+  - icu=58.1=vc14_0
+  - intel-openmp=2019.3=203
+  - jpeg=9c=hfa6e2cd_1001
+  - libblas=3.8.0=10_mkl
+  - libcblas=3.8.0=10_mkl
+  - liblapack=3.8.0=10_mkl
+  - liblapacke=3.8.0=10_mkl
+  - libpng=1.6.37=h7602738_0
+  - libtiff=4.0.10=h6512ee2_1003
+  - libwebp=1.0.2=hfa6e2cd_2
+  - lz4-c=1.8.3=he025d50_1001
+  - mkl=2019.3=203
+  - mkl_fft=1.0.12=py37h14836fe_0
+  - mkl_random=1.0.2=py37h343c172_0
+  - numpy=1.16.4=py37h19fb1c0_0
+  - numpy-base=1.16.4=py37hc3f5095_0
+  - opencv=4.1.0=py37hb4945ee_4
+  - openssl=1.1.1c=he774522_1
+  - pep8=1.7.1=py37_0
+  - pip=19.1.1=py37_0
+  - python=3.7.3=h8c8aaf0_1
+  - qt=5.9.7=hc6833c9_1
+  - setuptools=41.0.1=py37_0
+  - sqlite=3.28.0=he774522_0
+  - vc=14.1=h0510ff6_4
+  - vs2015_runtime=14.15.26706=h3a45250_4
+  - wheel=0.33.4=py37_0
+  - wincertstore=0.2=py37_0
+  - xz=5.2.4=h2fa13f4_1001
+  - zlib=1.2.11=h2fa13f4_1004
+  - zstd=1.4.0=hd8a0e53_0
+  - pip:
+    - autopep8==1.4.4
+    - imutils==0.5.2
+    - pycodestyle==2.5.0
+prefix: C:\Users\james\Anaconda3\envs\py37-cv2
+
